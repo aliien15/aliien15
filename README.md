@@ -44,11 +44,3 @@ Aside from writing good-looking code, I enjoy investigating technical problems, 
     <img src="https://komarev.com/ghpvc/?username=aliien15&style=for-the-badge&color=5e5086" alt="Profile Views" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=aliien15&icon=0&color=0" alt="Profile Views" />
-  </a>
-</div>
