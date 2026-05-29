@@ -24,8 +24,6 @@ Aside from writing good looking code, I enjoy investigating technical problems, 
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java%2021-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -33,11 +31,18 @@ Aside from writing good looking code, I enjoy investigating technical problems, 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=aliien15&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=aliien15&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=aliien15&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=aliien15&theme=dark&hide_border=false" height="195" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aliien15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=aliien15&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" alt="Contributor Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aliien15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=aliien15&style=for-the-badge&color=5e5086" alt="Profile Views" />
+  </a>
 </div>
 
 <br>
