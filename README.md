@@ -42,7 +42,7 @@
   
   <br><br>
   
-  <img src="https://streak-stats.demolab.com/?user=aliien15&theme=dark&hide_border=false" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliien15&theme=dark&hide_border=false" height="165" alt="GitHub Streak" />
 </div>
 
 <br>
