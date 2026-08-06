@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 * Currently studying Computer Science at the University of Lisbon.
 * **Main Stack:** Java, Haskell and Kotlin.
-* **Currently Learning:** Python, and SQL.
+* **Currently Learning:** SQL.
 * **Passion Project:** I develop premium Minecraft Paper plugins for anyone to use on their servers! Check out my work on my [BuiltByBit Store](https://builtbybit.com/creators/aliien15.474498/).
 
 <br>
@@ -21,6 +21,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🌐 Let's Connect
 [![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Store-2c3e50?style=for-the-badge&logo=minecraft&logoColor=white)](https://builtbybit.com/creators/aliien15.474498/)
