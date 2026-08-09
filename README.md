@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 * Currently studying Computer Science at the University of Lisbon.
-* **Main Stack:** Java, Haskell and Kotlin.
+* **Main Stack:** Java, Haskell, Kotlin and Python.
 * **Currently Learning:** SQL.
 * **Passion Project:** I develop premium Minecraft Paper plugins for anyone to use on their servers! Check out my work on my [BuiltByBit Store](https://builtbybit.com/creators/aliien15.474498/).
 
