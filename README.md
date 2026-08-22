@@ -1,17 +1,22 @@
 <h1 align="center">Hi, I'm André 👋</h1>
 
 <div align="center">
-  <strong>1st-year Computer Science student @ FCUL (University of Lisbon) 🇵🇹</strong><br>
-  <em>Exploring new skills, building tools, and ideas.</em>
+  <strong>Computer Science Student @ FCUL 🇵🇹</strong><br>
+  <em>I like figuring out how things work and building tools that people actually use.</em>
 </div>
 
 <br>
 
-### 👨‍💻 About Me
-* Currently studying Computer Science at the University of Lisbon.
-* **Main Stack:** Java, Haskell, Kotlin and Python.
-* **Currently Learning:** SQL.
-* **Passion Project:** I develop premium Minecraft Paper plugins for anyone to use on their servers! Check out my work on my [BuiltByBit Store](https://builtbybit.com/creators/aliien15.474498/).
+### About Me
+
+I'm a Computer Science student at the University of Lisbon. I focus on writing clean code and building practical software across a few different languages.
+
+* **Education:** Computer Science student at FCUL.
+* **Java & Kotlin:** Developing premium Minecraft Paper plugins used on live servers.
+* **Python:** Writing automation scripts and building backend tools.
+* **Haskell:** Solving algorithmic problems using functional programming.
+* **Currently Learning:** SQL, as well as trying to write cleaner and more scalable/maintanable code.
+* **Live Projects:** I develop and maintain PaperMC plugins used across multiple servers/networks on my [BuiltByBit Store](https://builtbybit.com/creators/aliien15.474498/).
 
 <br>
 
@@ -19,9 +24,10 @@
 
 ### 💻 Languages & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🌐 Let's Connect
 [![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Store-2c3e50?style=for-the-badge&logo=minecraft&logoColor=white)](https://builtbybit.com/creators/aliien15.474498/)
