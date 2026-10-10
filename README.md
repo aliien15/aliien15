@@ -15,7 +15,7 @@ I'm a Computer Science student at the University of Lisbon. I focus on writing c
 * **Java & Kotlin:** Developing premium Minecraft Paper plugins used on live servers.
 * **Python:** Writing automation scripts and building backend tools.
 * **Haskell:** Solving algorithmic problems using functional programming.
-* **Currently Learning:** Full stack, as well as trying to write cleaner and more scalable/maintanable code.
+* **Currently Learning:** Full stack, android development, as well as trying to write cleaner and more scalable/maintanable code.
 * **Live Projects:** I develop and maintain PaperMC plugins used across multiple servers/networks on my [BuiltByBit Store](https://builtbybit.com/creators/aliien15.474498/).
 
 <br>
