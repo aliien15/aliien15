@@ -12,7 +12,7 @@
 I'm a Computer Science student at the University of Lisbon. I focus on writing clean code and building practical software across a few different languages.
 
 * **Education:** Computer Science student at FCUL.
-* **Currently Learning:** Full stack, android development, as well as trying to write cleaner and more scalable/maintanable code.
+* **Currently Learning:** Android development, as well as trying to write cleaner and more scalable/maintanable code.
 * **Live Projects:** I develop and maintain PaperMC plugins used across multiple servers/networks on my [BuiltByBit Store](https://builtbybit.com/creators/aliien15.474498/).
 
 <br>
